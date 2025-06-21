@@ -1,4 +1,4 @@
-### This is a Blockchain based Certificate Verification system. This is actually a forked project, which i have audited and still auditing....
+##  This is a Blockchain based Certificate Verification system. This is actually a forked project, which i have audited and still auditing. Inspired from [an article on medium.](/@sahilkadam257/certificate-validation-using-blockchain-3c560fd1738c)
 The project clearly demonstrates how an authenticated institute/organization/certification authority can generate certificates for their candidates and how any user on internet can register an account in the platform and verify those certificates using either a  corresponding certificate-id or simply using its pdf-format.
 
 ### Tech Stack or Frameworks used are : 
